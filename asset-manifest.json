@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/natachaAviles/amiibo/static/css/main.689efe15.chunk.css",
-    "main.js": "/natachaAviles/amiibo/static/js/main.a07b4304.chunk.js",
-    "main.js.map": "/natachaAviles/amiibo/static/js/main.a07b4304.chunk.js.map",
-    "runtime-main.js": "/natachaAviles/amiibo/static/js/runtime-main.2c56ddb6.js",
-    "runtime-main.js.map": "/natachaAviles/amiibo/static/js/runtime-main.2c56ddb6.js.map",
-    "static/js/2.399c7f71.chunk.js": "/natachaAviles/amiibo/static/js/2.399c7f71.chunk.js",
-    "static/js/2.399c7f71.chunk.js.map": "/natachaAviles/amiibo/static/js/2.399c7f71.chunk.js.map",
-    "index.html": "/natachaAviles/amiibo/index.html",
-    "precache-manifest.764dab1ee390e4d6deef1db5732ffd29.js": "/natachaAviles/amiibo/precache-manifest.764dab1ee390e4d6deef1db5732ffd29.js",
-    "service-worker.js": "/natachaAviles/amiibo/service-worker.js",
-    "static/css/main.689efe15.chunk.css.map": "/natachaAviles/amiibo/static/css/main.689efe15.chunk.css.map",
-    "static/js/2.399c7f71.chunk.js.LICENSE.txt": "/natachaAviles/amiibo/static/js/2.399c7f71.chunk.js.LICENSE.txt"
+    "main.css": "/natachaaviles/amiibo/static/css/main.689efe15.chunk.css",
+    "main.js": "/natachaaviles/amiibo/static/js/main.442fd0b3.chunk.js",
+    "main.js.map": "/natachaaviles/amiibo/static/js/main.442fd0b3.chunk.js.map",
+    "runtime-main.js": "/natachaaviles/amiibo/static/js/runtime-main.3bde97c9.js",
+    "runtime-main.js.map": "/natachaaviles/amiibo/static/js/runtime-main.3bde97c9.js.map",
+    "static/js/2.399c7f71.chunk.js": "/natachaaviles/amiibo/static/js/2.399c7f71.chunk.js",
+    "static/js/2.399c7f71.chunk.js.map": "/natachaaviles/amiibo/static/js/2.399c7f71.chunk.js.map",
+    "index.html": "/natachaaviles/amiibo/index.html",
+    "precache-manifest.a4c3e70bf20a52fde3fa586dbb7ffb71.js": "/natachaaviles/amiibo/precache-manifest.a4c3e70bf20a52fde3fa586dbb7ffb71.js",
+    "service-worker.js": "/natachaaviles/amiibo/service-worker.js",
+    "static/css/main.689efe15.chunk.css.map": "/natachaaviles/amiibo/static/css/main.689efe15.chunk.css.map",
+    "static/js/2.399c7f71.chunk.js.LICENSE.txt": "/natachaaviles/amiibo/static/js/2.399c7f71.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c56ddb6.js",
+    "static/js/runtime-main.3bde97c9.js",
     "static/js/2.399c7f71.chunk.js",
     "static/css/main.689efe15.chunk.css",
-    "static/js/main.a07b4304.chunk.js"
+    "static/js/main.442fd0b3.chunk.js"
   ]
 }
